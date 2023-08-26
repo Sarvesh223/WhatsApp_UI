@@ -1,4 +1,4 @@
-# whatsapp
+# Whatsapp
 
 Hey everyone! In this project I'm creating UI of WhatsApp using Flutter. Its overall a best project I have created so far. Hope you all find it useful.
 This project has two interface one is mobile interface and another one is web interface.
@@ -31,5 +31,5 @@ This project has two interface one is mobile interface and another one is web in
 1. responsive_layout.dart: This file basically runs when our window exceeds 900 width. This file automatically calls the web screen file.
 
 
-# Special Thanks
-Rivavan Ranawat 
+## Special Thanks
+Rivavan Ranawat
