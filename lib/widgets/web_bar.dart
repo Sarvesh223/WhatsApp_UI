@@ -27,6 +27,12 @@ class webbar extends StatelessWidget {
             IconButton(
                 onPressed: () {},
                 icon: const Icon(
+                  Icons.circle_outlined,
+                  color: Colors.grey,
+                )),
+            IconButton(
+                onPressed: () {},
+                icon: const Icon(
                   Icons.comment,
                   color: Colors.grey,
                 )),
